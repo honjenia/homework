@@ -1,0 +1,52 @@
+body {
+
+    margin: 0; 
+  
+    background-color: #fefbe8;
+  
+    font-family: 'Open Sans', sans-serif; 
+  
+  }
+.primary-header {
+
+    text-align: center;}
+    .main-heading {
+
+        font-size: 70px;
+      
+        color: #205D76;}
+ .main-heading {
+
+            font-size: 70px;
+          
+            color: #205D76;
+          
+          }
+ .store-section {
+
+            display: flex; 
+          
+            display: -webkit-flex; 
+          
+            margin: 50px auto; 
+          
+            width: 450px;  }
+.building {
+
+                width: 312px;
+              
+              }
+ .category-heading {
+
+                color: #205D76;
+              
+                font-size: 30px; }
+.store-list {
+
+                    padding-left: 15px;
+                  
+                    color: #dd690a; }
+ .store-name {
+
+                        margin-bottom: 10px; }
+
