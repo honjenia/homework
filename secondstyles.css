@@ -1,0 +1,93 @@
+.body-friday {
+    background-color: rgb(249, 229, 255);
+}
+.body-monday {
+    background-color: rgb(255, 253, 220) ;
+}
+.body-thursday {
+    background-color: rgb(213, 255, 196 );
+}
+.body-tuesday {
+    background-color: rgb(221, 251, 255);
+}
+.body-wednesday {
+    background-color: rgb(255, 216, 216 );
+}
+.a-wednesday {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+  border-right:solid rgb(131, 0, 215  ) ;
+  border-bottom: solid rgb(131, 0, 215   ) ;
+  border-left: solid rgb(229, 189, 255    );
+  border-top: solid rgb(229, 189, 255  );
+    background-color:rgb(198, 109, 255   );
+    font-size: 40px;
+    bottom: 2px;
+}
+.a-tuesday{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+  border-right:solid rgb(179, 218, 0  ) ;
+  border-bottom: solid rgb(179, 218, 0  ) ;
+  border-left: solid rgb(246, 255, 205   );
+  border-top: solid rgb(246, 255, 205  );
+    background-color:rgb(229, 255, 108  );
+    font-size: 40px;
+    bottom: 2px;}
+.a-friday {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+  border-right:solid rgb(0, 198, 5 ) ;
+  border-bottom: solid rgb(0, 198, 5 ) ;
+  border-left: solid rgb(209, 255, 210  );
+  border-top: solid rgb(209, 255, 210  );
+    background-color:rgb(115, 255, 118 );
+    font-size: 40px;
+    bottom: 2px;
+    
+  }
+  .a-monday {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+  border-right:solid rgb(0, 34, 213  ) ;
+  border-bottom: solid rgb(0, 34, 213  ) ;
+  border-left: solid rgb(205, 213, 255   );
+  border-top: solid rgb(205, 213, 255   );
+    background-color:rgb(97, 122, 255  );
+    font-size: 40px;
+    bottom: 2px;
+  }
+  .a-thursday {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+  border-right:solid rgb(228, 21, 0   ) ;
+  border-bottom: solid rgb(228, 21, 0  ) ;
+  border-left: solid rgb(255, 198, 192   );
+  border-top: solid rgb(255, 198, 192    );
+    background-color:rgb(255, 120, 107   );
+    font-size: 40px;
+    bottom: 2px; 
+  }
+  .section {
+     
+  }
+  .header {
+      text-align: center;
+  }
+  .heading {
+      font-size: 70px;
+  }
+  .image {
+      width: 312px;;
+  }
+  .name-list {
+      list-style-type: none;
+      font-size: 40px;
+      line-height: 2;
+  }
+  .store-details {
+    display: flex;
+    
+    align-items: center;
+    flex-flow: column;
+  }

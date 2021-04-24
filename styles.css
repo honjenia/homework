@@ -1,15 +1,25 @@
+@font-face {
+  font-family: Lora-Bold;
+  src:url(./static/Lora-Bold.ttf)
+}
+
 body {
 
     margin: 0; 
   
     background-color: #fefbe8;
   
-    font-family: 'Open Sans', sans-serif; 
+    font-family: 'Lora-Bold', serif; 
   
   }
 .primary-header {
-
-    text-align: center;}
+  padding: 60px 60px 60px 60px;
+display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-flow: column;
+    
+  }
     .main-heading {
 
         font-size: 70px;
@@ -25,12 +35,11 @@ body {
  .store-section {
 
             display: flex; 
+          align-items: center;
+            justify-content: center; 
+            min-height: 100vh;
           
-            display: -webkit-flex; 
-          
-            margin: 50px auto; 
-          
-            width: 450px;  }
+           }
 .building {
 
                 width: 312px;
@@ -39,8 +48,9 @@ body {
  .category-heading {
 
                 color: #205D76;
-              
-                font-size: 30px; }
+              padding: 10px;
+                font-size: 30px; 
+              }
 .store-list {
 
                     padding-left: 15px;
@@ -48,5 +58,38 @@ body {
                     color: #dd690a; }
  .store-name {
 
-                        margin-bottom: 10px; }
+   padding-right: 40px;
+  margin-bottom: 10px;
+   list-style-type: none; }
+.links {
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+border-right:solid rgb(70, 70, 70) ;
+border-bottom: solid rgb(70, 70, 70) ;
+border-left: solid rgb(223, 223, 223);
+border-top: solid rgb(223, 223, 223);
+  background-color:rgb(159, 159,159);
+}
+.town-preview {
+  width: 400px;
+  height: 400px;
+}
+.menu-link {
+  text-decoration: none;
+  color: #205D76;
+  
+}
+.menu-ul {
+  font-size: 30px;
+ 
+  display: flex;
+  justify-content: space-around;
+  padding-top: 60px;
+  list-style-type: none;
+  width: 100%;
+}
+.menu-link:hover {
+  text-decoration: underline;
+  color: #fcad36;
+}
 
