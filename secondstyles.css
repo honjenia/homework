@@ -14,6 +14,8 @@
     background-color: rgb(255, 216, 216 );
 }
 .a-wednesday {
+  padding: 5px;
+  border-radius: 10px;
     text-decoration: none;
     color: rgb(0, 0, 0);
   border-right:solid rgb(131, 0, 215  ) ;
@@ -25,6 +27,8 @@
     bottom: 2px;
 }
 .a-tuesday{
+  padding: 5px;
+  border-radius: 10px;
     text-decoration: none;
     color: rgb(0, 0, 0);
   border-right:solid rgb(179, 218, 0  ) ;
@@ -35,6 +39,8 @@
     font-size: 40px;
     bottom: 2px;}
 .a-friday {
+  padding: 5px;
+  border-radius: 10px;
     text-decoration: none;
     color: rgb(0, 0, 0);
   border-right:solid rgb(0, 198, 5 ) ;
@@ -47,6 +53,8 @@
     
   }
   .a-monday {
+    padding: 5px;
+    border-radius: 10px;
     text-decoration: none;
     color: rgb(0, 0, 0);
   border-right:solid rgb(0, 34, 213  ) ;
@@ -58,6 +66,8 @@
     bottom: 2px;
   }
   .a-thursday {
+    padding: 5px;
+    border-radius: 10px;
     text-decoration: none;
     color: rgb(0, 0, 0);
   border-right:solid rgb(228, 21, 0   ) ;
